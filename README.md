@@ -9,3 +9,11 @@ SIDS KKU Data Preparation and Data Mining
   | HW1   |            |
   | HW 2 Data Preprocessing |[Colab](Data_Preprocessing.ipynb)|
 
+# Quiz (Inclass)
+
+# All Presentation
+
+#Lecture
+
+# Short note
+
