@@ -1,6 +1,8 @@
 # bsc_dpdm24
 SIDS KKU Data Preparation and Data Mining
+
 # Final Project 
+[All project](Final_project)
 
 # HW
 
