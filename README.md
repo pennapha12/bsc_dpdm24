@@ -19,7 +19,9 @@ SIDS KKU Data Preparation and Data Mining
   | Quiz 10 |[Quiz 10](Quiz10.pdf)|
   
 # All Presentation
+
 [HW 3 Presentation ](https://www.canva.com/design/DAGhWP8L8M0/a3ZgALv1k4_Nn7QYv6nDBw/view?utm_content=DAGhWP8L8M0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f5ef4d591)
+
 [Final Project](https://www.canva.com/design/DAGhWGHlElQ/lcBYgmXkv3ZT8o8Juko5ww/view?utm_content=DAGhWGHlElQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6357eb6696)
 
 # Lecture
