@@ -31,6 +31,7 @@
 
 # Lecture :books:
 |**Title** |**File** |
+|-----------|-----------------|
 |Text book| [Text book](https://github.com/pennapha12/bsc_dpdm24/blob/main/lecture/%5B1%5D%20Data%20Mining%20-%20Concepts%20and%20Techniques%20(3rd%20Ed)%20(1).pdf)|
 |chapter 1 Introduction | [Introduction](https://github.com/pennapha12/bsc_dpdm24/blob/main/lecture/Copy%20of%2001Intro.pdf)|
 |chapter 2 Getting to Know Your Data | [Getting to Know Your Data](https://github.com/pennapha12/bsc_dpdm24/blob/main/lecture/Copy%20of%2002Data.pdf)|
